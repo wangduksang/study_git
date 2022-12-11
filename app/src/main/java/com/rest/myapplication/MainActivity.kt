@@ -30,9 +30,7 @@ class MainActivity : ComponentActivity() {
             }
         }
         println("re third function")
-
-
-
+        println("4th function")
         println("devel change")
     }
 }
