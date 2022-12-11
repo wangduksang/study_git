@@ -17,7 +17,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         println("this is develop")
         println("first function")
-        println("second function")
+        println("re second function")
         setContent {
             MyApplicationTheme {
                 // A surface container using the 'background' color from the theme
