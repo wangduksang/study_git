@@ -16,6 +16,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         println("this is develop")
+        println("first function")
         setContent {
             MyApplicationTheme {
                 // A surface container using the 'background' color from the theme
