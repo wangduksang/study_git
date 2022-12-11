@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
         println("this is develop")
         println("first function")
         println("re second function")
+        println("release")
         setContent {
             MyApplicationTheme {
                 // A surface container using the 'background' color from the theme
